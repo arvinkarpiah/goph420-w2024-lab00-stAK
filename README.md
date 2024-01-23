@@ -1,4 +1,4 @@
 # GOPH 420 - Inversion and Parameter Estimation for Geophysicists 
-*Semester:* W2024 
-*Instructor:* B. Karchewski 
+*Semester:* Winter2024 
+*Instructor:* Brandon Karchewski 
 *Author:* Arvin Karpiah
